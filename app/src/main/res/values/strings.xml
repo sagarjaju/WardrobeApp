@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="addimage">Add to Wardrobe</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="favourite">Favourite</string>
+    <string name="error_selectoneimage">Please select atleast one shirt and one pant</string>
+    <string name="error_camera">Camera not supported</string>
+    <string name="error_adding_wardrobe">Unable to add image to wardrobe, please try again</string>
+    <string name="error_permission">Some Permission is Denied</string>
+</resources>
